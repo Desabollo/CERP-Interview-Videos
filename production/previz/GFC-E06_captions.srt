@@ -1,0 +1,55 @@
+1
+00:00:02,100 --> 00:00:05,597
+What would your first ninety days as Group Financial Controller look like?
+
+2
+00:00:06,107 --> 00:00:09,595
+I run it in three phases — assess, design, institutionalise.
+
+3
+00:00:09,755 --> 00:00:14,215
+Days one to thirty: map the entities, people, chart of accounts and systems;
+
+4
+00:00:14,375 --> 00:00:18,715
+time the current close end-to-end; inventory reconciliations and controls.
+
+5
+00:00:19,225 --> 00:00:22,099
+Then I publish a findings memo with quick wins —
+
+6
+00:00:22,259 --> 00:00:26,841
+high-risk reconciliations, cut-off fixes, ERP functionality we already own.
+
+7
+00:00:27,351 --> 00:00:32,204
+Days thirty-one to sixty: a redesigned close calendar with hour-level ownership;
+
+8
+00:00:32,364 --> 00:00:39,223
+a consolidation pack and eliminations matrix; a controls matrix for segregation of duties and delegation limits;
+
+9
+00:00:39,383 --> 00:00:44,111
+and policy papers for the highest-risk areas — revenue, leases, credit losses.
+
+10
+00:00:44,621 --> 00:00:49,852
+Days sixty-one to ninety: run one full close under the new framework and measure it —
+
+11
+00:00:50,012 --> 00:00:53,404
+close days, reconciliation completion, late adjustments.
+
+12
+00:00:53,564 --> 00:00:57,781
+Publish the KPIs and deliver the first board-standard reporting pack.
+
+13
+00:00:58,291 --> 00:01:03,493
+Success looks like: a faster close, key reconciliations one hundred per cent current,
+
+14
+00:01:03,653 --> 00:01:07,467
+and a leadership team that trusts the numbers without a caveat.
