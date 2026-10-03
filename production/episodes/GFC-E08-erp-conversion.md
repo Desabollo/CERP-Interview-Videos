@@ -44,6 +44,8 @@
 | 66.0–69.5 | End card | — | — | — | CTA + disclosure | ≈69.5 s |
 
 ## D. Generation package
+> **HeyGen execution (SELECTED TOOL — 3 Oct 2026):** this episode renders in HeyGen per `production/06-heygen-execution-guide.md` — avatars `CEABS-INT-01` × `CEABS-CAND-GFC-01`, 1 storyboard beat = 1 scene (≤12 s, split at sentence boundaries per guide §8), script mode with heygen voice + our spell-outs/letter-spacing preserved until recorded audio exists, motion from the dictionary codes, SRT sidecar → restyled captions, cards/overlays in edit. The prompts below remain the motion/scene intent reference; QC at G3 per guide §9.
+
 Wave-1 template (plates/wardrobe/negatives). **Note:** the script is deliberately vendor-free; negative instructions for every shot must include *no visible software screens, logos or UI anywhere* (protects vendor-independence stance).
 
 **Voice prompts**

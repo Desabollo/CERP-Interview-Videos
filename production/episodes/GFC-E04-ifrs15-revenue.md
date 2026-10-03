@@ -46,6 +46,8 @@
 | 69.0–72.5 | End card | — | — | — | CTA + disclosure | Total ≈ 72.5 s |
 
 ## D. Generation package
+> **HeyGen execution (SELECTED TOOL — 3 Oct 2026):** this episode renders in HeyGen per `production/06-heygen-execution-guide.md` — avatars `CEABS-INT-01` × `CEABS-CAND-GFC-01`, 1 storyboard beat = 1 scene (≤12 s, split at sentence boundaries per guide §8), script mode with heygen voice + our spell-outs/letter-spacing preserved until recorded audio exists, motion from the dictionary codes, SRT sidecar → restyled captions, cards/overlays in edit. The prompts below remain the motion/scene intent reference; QC at G3 per guide §9.
+
 
 Shots follow the Wave-1 template (same plates, wardrobe, seating, lighting, negatives). Question line exactly as scripted (INT-01 active). Candidate segments split at sentence boundaries ≤10 s per generation. Counter chip is an edit-time graphic; model renders no text/numbers.
 

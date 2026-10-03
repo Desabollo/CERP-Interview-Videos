@@ -49,6 +49,8 @@ All timings **estimated from script** (~145 wpm + 0.6 s thinking beats); conform
 | 68.0–71.5 | End card (off-white) | — | — | — | Lockup; CTA lines; URL; WhatsApp; disclosure microcopy | End. Total ≈ 71.5 s |
 
 ## D. Generation package
+> **HeyGen execution (SELECTED TOOL — 3 Oct 2026):** this episode renders in HeyGen per `production/06-heygen-execution-guide.md` — avatars `CEABS-INT-01` × `CEABS-CAND-GFC-01`, 1 storyboard beat = 1 scene (≤12 s, split at sentence boundaries per guide §8), script mode with heygen voice + our spell-outs/letter-spacing preserved until recorded audio exists, motion from the dictionary codes, SRT sidecar → restyled captions, cards/overlays in edit. The prompts below remain the motion/scene intent reference; QC at G3 per guide §9.
+
 
 **Reference requirements:** cast plates `INT-01_adaeze-nwosu_ref.jpg`, `CAND-GFC-01_olumide-adeyemi_ref.jpg`, set plate `SET-lagos-boardroom_ref.jpg` attached to **every** generation. Wardrobe/hair text copied verbatim from 03-cast-reference-sheet in every prompt.
 

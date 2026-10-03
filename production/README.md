@@ -13,6 +13,7 @@ First batch: **Group Financial Controller** (Waves 1–2 of 4 packaged). Softwar
 | `03-cast-reference-sheet.md` | Fictional Black African cast (INT-01 · CAND-GFC-01 · INT-02), wardobe, voices, pronunciation key |
 | `04-content-matrix.md` | All 21 episodes (E01–E21 ↔ source questions), waves, statuses, next continuation point |
 | `05-quality-review.md` | Review gates, Wave-1 results, defect list, dependencies, publish checklist, measurement plan |
+| `06-heygen-execution-guide.md` | **Selected video tool: HeyGen (3 Oct 2026)** — one-time setup (photo avatars from cast plates, brand kit, voices), mapping rules, E06 pilot scene plan (8 scenes + pre-split audio), API template, G3 QC checklist, gotchas |
 | `episodes/` | Full A–H packages: Wave 1 = **GFC-E01, E02, E03, E06 (★+previz), E20** · Wave 2 = **GFC-E04, E05, E07, E08, E09** |
 | `assets/cast/` · `assets/set/` · `assets/brand/` | Character/set reference plates; placeholder logo lockup (SVG) |
 | `assets/audio/` | Synthetic voice samples + E06 voice clips |

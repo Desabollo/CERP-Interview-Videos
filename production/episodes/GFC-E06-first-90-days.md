@@ -74,6 +74,23 @@ Timings estimated from script; **previz timings were conformed to the actual syn
 | E06-V05 | CAND | same; "measure" weighted | "Days sixty-one to ninety: run one full close under the new framework and measure it — close days, reconciliation completion, late adjustments. Publish the K P Is and deliver the first board-standard reporting pack." |
 | E06-V06 | CAND | same; calm certainty; lands the final clause | "Success looks like: a faster close, key reconciliations one hundred per cent current, and a leadership team that trusts the numbers without a caveat." |
 
+### HeyGen execution (SELECTED TOOL — 3 Oct 2026; full rules in `production/06-heygen-execution-guide.md`)
+
+**8 HeyGen scenes → assembly per §F.** Avatars: `CEABS-INT-01` × `CEABS-CAND-GFC-01` (photo avatars from approved plates). Voice mode: **uploaded audio** (lip-sync) — clips below; split files pre-cut in `assets/audio/E06/`.
+
+| Scene | Avatar · Audio | Beat | Motion (dict. code) |
+|---|---|---|---|
+| S1 | INT-01 · E06-V01 (3.7 s) | The question (hook) | MO-ASK |
+| S2 | CAND · E06-V02a (4.0 s) | "I run it in three phases — assess, design, institutionalise." | MO-FRAME |
+| S3 | CAND · E06-V02b (8.8 s) | Days 1–30 inventory | MO-LIST (MCU variant in edit) |
+| S4 | CAND · E06-V03 (7.8 s) | Findings memo; "already own" | MO-EMPH |
+| S5 | CAND · E06-V04a (11.7 s) | Days 31–60: close calendar → delegation limits | MO-LIST (MCU variant in edit) |
+| S6 | CAND · E06-V04b (5.2 s) | Policy papers close the list | MO-CALM |
+| S7 | CAND · E06-V05 (13.3 s) | Days 61–90: one measured close + KPIs | MO-MEASURE |
+| S8 | CAND · E06-V06 (9.3 s) | "…without a caveat." | MO-LAND (2–3% push in edit) |
+
+Storyboard-wide/OTS shots (SH01/SH04) execute as: singles alternation + hook chip over S1 + optional INT-01 freeze-frame reaction insert between S4/S5 (guide §1). Takeaway + end cards stay edit-time overlays; captions from HeyGen sidecar SRT, restyled to brand; master ≈ 70.8 s + Hook-B edit variant.
+
 ## E. Screen-capture package — N/A (Category A). **PREVIZ animatic instead (this episode only):**
 
 Workspace-produced previsualization (NOT final video): vertical 1080×1920, cast plates + phase chips + burned captions + synthetic voice audio from §D voice clips, assembled with ffmpeg. Purpose: verify pacing, timing, caption load and CTA flow before committing video-generation budget. Files:
@@ -88,7 +105,7 @@ Verdict recorded in 05-quality-review. This asset must never be published as a f
 
 ## F. Editing & export package
 
-As GFC-E01 §F; phase chips are edit-time graphics (teal pill: `Ⓐ 1 · ASSESS — DAYS 1–30` etc.). Master: `ceabs_boardroomready_GFC-E06_v1_YYYYMMDD.mp4`. SRT post-audio. Hook-B re-export `_hookB`.
+As GFC-E01 §F, with HeyGen scenes S1–S8 as the "shots" (guide §7 table for order/variants); phase chips are edit-time graphics (teal pill: `Ⓐ 1 · ASSESS — DAYS 1–30` etc.). Master: `ceabs_boardroomready_GFC-E06_v1_YYYYMMDD.mp4`. Captions: HeyGen sidecar SRT conformed to brand style (post-audio). Hook-B re-export `_hookB`. End card appends the standard PNG (interim lockup until D9 closes).
 
 ## G. Publishing package
 
@@ -113,8 +130,8 @@ As GFC-E01 §F; phase chips are edit-time graphics (teal pill: `Ⓐ 1 · ASSESS 
 |---|---|---|---|
 | Script LOCKED (condensed from SRC-GFC-Q06) | §B | Client pack | Verified — framework faithful to approved answer |
 | Cast plates ×2, set plate | as GFC-E01 | Generated | Approved |
-| Voice clips E06-V01…V06 | `assets/audio/E06/` — V01 3.7s · V02 12.8s · V03 7.8s · V04 16.9s · V05 13.3s · V06 9.3s | Synthetic (voices `voice-03`/`voice-04`) | Generated — timed & reviewed |
+| Voice clips E06-V01…V06 (+ HeyGen splits V02a/b, V04a/b) | `assets/audio/E06/` — V01 3.7s · V02a 4.0s · V02b 8.8s · V03 7.8s · V04a 11.7s · V04b 5.2s · V05 13.3s · V06 9.3s (unsplit V02/V04 masters retained) | Synthetic (voices `voice-03`/`voice-04`) | Generated — timed & reviewed; splits cut at sentence silences |
 | Previz animatic + SRT | `previz/GFC-E06_previz_v2_brand.mp4` (11.7 MB, 74.7s, 1080×1920@30) + `previz/GFC-E06_captions.srt` (v1 superseded & removed) | This workspace | Generated — pacing/caption review passed on extracted frames; end card swaps to real logo at ingest (D9); **not publishable final** |
-| Shot videos E06-SH01…07 | n/a | Client video tool | Planned — prompts ready |
+| HeyGen scenes S1–S8 (replace SH01…07; storyboard retained as intent) | n/a — awaiting client HeyGen setup (guide §2) | **HeyGen** (selected 3 Oct 2026) | Queued — scene plan LOCKED in §D; avatar/audio IDs to fill in guide §10 |
 | Brand lockup | placeholder SVG | Placeholder | Awaiting client files |
 | Review | Script + previz pacing | This workspace | **Passed (previz)** — final-video gates open |

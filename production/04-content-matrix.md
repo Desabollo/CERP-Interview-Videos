@@ -3,6 +3,7 @@
 **Brand:** CloudERP · **Audience:** mid/senior finance & accounting executives, Nigeria · **Role:** Group Financial Controller
 **Format/cast:** Single interviewer (INT-01 × CAND-GFC-01) unless noted. **Est. durations** = from condensed dialogue at ~145 wpm + 7 s graphics cards (takeaway + end card). **CTA (all episodes):** Book a consultation — clouderpaccounting.com/book-consultation · WhatsApp +234 708 037 1266.
 **Verification:** A = technical review passed (script level) · **Status:** Packaged = full A–H package delivered; Queued = inventoried, awaiting wave.
+**Execution tool:** **HeyGen — selected 3 Oct 2026** · setup + pilot scene plans in `06-heygen-execution-guide.md` · packaged episodes carry a HeyGen pointer in §D · next continuation point unchanged: **GFC-E10 (Wave 3 = E10–E15)**.
 
 | Ep ID | Source ID | Topic / problem | Learning outcome (viewer can…) | Hook (≤7 words) | Est. dur. | Required assets | Verif. | Status |
 |---|---|---|---|---|---|---|---|---|

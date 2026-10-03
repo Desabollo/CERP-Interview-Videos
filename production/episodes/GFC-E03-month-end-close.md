@@ -48,6 +48,8 @@ Timings estimated from script; conform to final audio.
 | 61.5–65.0 | End card | — | — | — | CTA + disclosure | Total ≈ 65–70 s |
 
 ## D. Generation package
+> **HeyGen execution (SELECTED TOOL — 3 Oct 2026):** this episode renders in HeyGen per `production/06-heygen-execution-guide.md` — avatars `CEABS-INT-01` × `CEABS-CAND-GFC-01`, 1 storyboard beat = 1 scene (≤12 s, split at sentence boundaries per guide §8), script mode with heygen voice + our spell-outs/letter-spacing preserved until recorded audio exists, motion from the dictionary codes, SRT sidecar → restyled captions, cards/overlays in edit. The prompts below remain the motion/scene intent reference; QC at G3 per guide §9.
+
 
 | Shot ID | Prompt essentials (wardrobe/seats/set identical to E01; three plates attached) |
 |---|---|
